@@ -1,0 +1,9 @@
+body{
+    width: 100%;
+    height: 1000px;
+    background-image: url("rumbling.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(10px);
+    margin-right: 300px;
+}
